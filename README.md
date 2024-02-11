@@ -6,7 +6,7 @@ Welcome to the Exercise Tracker project! This project showcases how to use Expre
 
 Experience the Exercise Tracker in action! Check out the live deployment of this project on Render:
 
-https://exertrack.onrender.com/🏋️
+https://exertrack.onrender.com 🏋️
 
 Explore the features and inner workings of this exceptional Exercise Tracker! Witness its seamless processes and gain a comprehensive understanding of how it operates.
 
